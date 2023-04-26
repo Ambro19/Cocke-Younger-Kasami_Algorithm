@@ -30,3 +30,4 @@ When the user clicks "Check", the program simulates the finite automaton M on th
 depending on whether the final state is accepting or not. The program uses the transition function transition to compute the next 
 state given the current state and input symbol. The program also uses the PySimpleGUI library to create the GUI and handle user input.
 
+
